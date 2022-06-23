@@ -1,0 +1,65 @@
+{
+    "songs":[
+        {
+            "id": 1,
+            "name": "Generic Song",
+            "genre": ["HipHop", "Rap"],
+            "artist": "Unnamed"
+        },
+        {
+            "id": 2,
+            "name": "Generic Song",
+            "genre": ["Rock", "Heavy Metal", "Screamo"],
+            "artist": "Unnamed" 
+        },
+        {
+            "id": 3,
+            "name": "Generic Song",
+            "genre": ["Pop", "Rap", "HipHop"],
+            "artist": "Unnamed"
+        },
+        {
+            "id": 4,
+            "name": "Generic Song",
+            "genre": ["Pop Punk", "Rock", "Emo"],
+            "artist": "Unnamed" 
+        },
+        {
+            "id": 5,
+            "name": "Generic Song",
+            "genre": ["Rock", "Pop", "Rap"],
+            "artist": "Unnamed"
+        },
+        {
+            "id": 6,
+            "name": "Generic Song",
+            "genre": ["Pop", "Mellow", "Love"],
+            "artist": "Unnamed"
+        },
+        {
+            "id": 7,
+            "name": "Generic Song",
+            "genre": ["Country", "Pop"],
+            "artist": "Unnamed"
+        },
+        {
+            "id": 8,
+            "name": "Generic Song",
+            "genre": ["Pop Punk", "Rock", "Emo", "Alternative"],
+            "artist": "Unnamed"
+        },
+        {
+            "id": 9,
+            "name": "Generic Song",
+            "genre": ["Alternative", "Pop", "Indie"],
+            "artist": "Unnamed"
+        },
+        {
+            "id": 10,
+            "name": "Generic Song",
+            "genre": ["Alternative", "Rock", "Indie"],
+            "artist": "Unnamed"
+        }
+        
+    ]
+}
